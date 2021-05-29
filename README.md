@@ -1,3 +1,6 @@
+<img src="./onlinelogomaker-052921-1208-1538-500.jpg">
+
+
 # Blue Waters
 Blue Waters is a node red application that will help drive decision making in waste water management and clean water.
 The major objectives of this application is to show or identify waste water plants in Botswana, and also around those
